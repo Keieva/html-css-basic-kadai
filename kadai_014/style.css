@@ -1,0 +1,29 @@
+body{
+    font-family: "Arial","Meiryo", sans-serif;
+    font-size: 20px; 
+    text-align: center;
+}
+/* h1 */
+h1{
+   /* FONTFAMILYは後で追加 */
+    font-size: 40px;
+    letter-spacing: 48px;
+    text-shadow: 1px 2px 2px #818086;
+    border-bottom: 3px solid rgb(115,115,114);
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.blue{
+    color: skyblue;
+}
+.pink{
+    color: rgb(255,192,203);
+}
+
+#basic{
+    font-size: 20px;
+}
+#basic .bold{
+    font-weight: bold;
+
+}
